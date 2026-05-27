@@ -46,6 +46,19 @@ const projects = ref([
             "https://upload.wikimedia.org/wikipedia/commons/f/fd/Firebase_Logo_%28No_wordmark%29_%282024-%29.svg"
         ],
         contributors: ['Moxka']
+    },
+    {
+        id: 4,
+        title: "Qarnayn Picture Profile",
+        desc: "This is a profile website designed to introduce a startup called “Qarnayn Picture.” The website is already hosted and has its own domain. You can visit it at qarnaynpicture.com",
+        img: "https://res.cloudinary.com/dg620epmv/image/upload/v1779862252/cbd1be52-ed6a-4da5-9431-2a1fcc909b69.png",
+        github: "https://github.com/MehmedAzka/qarnaynPicture.git",
+        year: "2026",
+        tech: [
+            'https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg',
+            'https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg'
+        ],
+        contributors: ['Moxka']
     }
 ])
 
