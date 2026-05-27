@@ -1,0 +1,79 @@
+{
+  "conversations": [
+    {
+      "question": "siapa presiden pertama indonesia",
+      "answers": [
+        "Presiden pertama Indonesia adalah Ir. Soekarno, menjabat 1945–1967."
+      ]
+    },
+    {
+      "question": "siapa presiden kedua indonesia",
+      "answers": [
+        "Presiden kedua Indonesia adalah Soeharto, menjabat 1967–1998."
+      ]
+    },
+    {
+      "question": "siapa presiden ketiga indonesia",
+      "answers": [
+        "Presiden ketiga Indonesia adalah B.J. Habibie, menjabat 1998–1999."
+      ]
+    },
+    {
+      "question": "apa ibu kota indonesia",
+      "answers": [
+        "Ibu kota Indonesia saat ini adalah Jakarta, namun sedang dipindahkan ke Nusantara di Kalimantan Timur.",
+        "Jakarta adalah ibu kota Indonesia, tetapi ibu kota baru yaitu Nusantara sedang dibangun di Kalimantan Timur."
+      ]
+    },
+    {
+      "question": "apa itu python",
+      "answers": [
+        "Python adalah bahasa pemrograman tingkat tinggi yang terkenal karena sintaksnya yang bersih dan mudah dibaca.",
+        "Python adalah bahasa pemrograman serbaguna yang banyak digunakan untuk web, data science, AI, dan otomasi."
+      ]
+    },
+    {
+      "question": "berapa jumlah pulau di indonesia",
+      "answers": [
+        "Indonesia memiliki sekitar 17.000 pulau, menjadikannya negara kepulauan terbesar di dunia."
+      ]
+    },
+    {
+      "question": "apa bahasa resmi indonesia",
+      "answers": [
+        "Bahasa resmi Indonesia adalah Bahasa Indonesia."
+      ]
+    },
+    {
+      "question": "siapa penemu listrik",
+      "answers": [
+        "Michael Faraday dianggap sebagai penemu listrik praktis melalui penemuannya tentang induksi elektromagnetik."
+      ]
+    },
+    {
+      "question": "halo",
+      "answers": [
+        "halo juga"
+      ]
+    },
+    {
+      "question": "kamu dibuat oleh siapa?",
+      "answers": [
+        "saya dibuat oleh user bernama 'Moxka' dan dibantu dengan AI tools"
+      ]
+    },
+    {
+      "question": "nama kamu siapa?",
+      "answers": [
+        "saya hanya sebuah program dan tidak ada nama."
+      ]
+    },
+    {
+      "question": "lu bisa apa aja",
+      "answers": [
+        "saya bisa menjawab pertanyaan-pertanyaan sederhana, kamu juga bisa menanyakan operasi sederhana kepada saya",
+        "saya bisa menjawab pertanyaan sederhana dan operasi sederhana"
+      ]
+    }
+  ]
+}
